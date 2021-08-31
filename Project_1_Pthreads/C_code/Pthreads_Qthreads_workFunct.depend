@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585506798 source:c:\users\wero\desktop\pthreads_qthreads_workfunct\main.c
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<sys/time.h>
+
